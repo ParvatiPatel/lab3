@@ -1,0 +1,24 @@
+{
+  "name": "lab3",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ParvatiPatel <paro.patel@rocketmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ParvatiPatel/lab3",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "font-awesome": "^4.5.0",
+    "bootstrap": "^3.3.6"
+  }
+}
